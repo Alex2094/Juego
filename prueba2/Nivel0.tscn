@@ -53,7 +53,7 @@ offset_left = 38.0
 offset_top = 18.0
 offset_right = 78.0
 offset_bottom = 41.0
-text = "hola"
+text = "buenas noches"
 
 [connection signal="body_entered" from="reset_area" to="Personaje" method="_on_reset_area_body_entered"]
 [connection signal="body_entered" from="door" to="Personaje" method="_on_door_body_entered"]
