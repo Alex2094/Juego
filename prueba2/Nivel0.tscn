@@ -48,6 +48,7 @@ tipo = 3
 [node name="Plataforma4" parent="." instance=ExtResource("2_wyp7x")]
 position = Vector2(160, 136)
 
+<<<<<<< HEAD
 [node name="Label" type="Label" parent="."]
 offset_left = 660.0
 offset_top = 132.0
@@ -55,5 +56,7 @@ offset_right = 776.0
 offset_bottom = 155.0
 text = "buenas noches"
 
+=======
+>>>>>>> 8d1861ebed0a005627d053891c46f9a521a53117
 [connection signal="body_entered" from="reset_area" to="Personaje" method="_on_reset_area_body_entered"]
 [connection signal="body_entered" from="door" to="Personaje" method="_on_door_body_entered"]
