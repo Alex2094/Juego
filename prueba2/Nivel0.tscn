@@ -49,10 +49,10 @@ tipo = 3
 position = Vector2(160, 136)
 
 [node name="Label" type="Label" parent="."]
-offset_left = 38.0
-offset_top = 18.0
-offset_right = 78.0
-offset_bottom = 41.0
+offset_left = 660.0
+offset_top = 132.0
+offset_right = 776.0
+offset_bottom = 155.0
 text = "buenas noches"
 
 [connection signal="body_entered" from="reset_area" to="Personaje" method="_on_reset_area_body_entered"]
