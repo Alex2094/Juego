@@ -19,7 +19,7 @@ position = Vector2(575.5, 484)
 shape = SubResource("RectangleShape2D_ip57o")
 
 [node name="door" type="Area2D" parent="."]
-position = Vector2(638, -54)
+position = Vector2(517, 20)
 
 [node name="Sprite2D" type="Sprite2D" parent="door"]
 position = Vector2(38.5, 21)
