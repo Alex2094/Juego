@@ -1,0 +1,11 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1750704262
+Door.png::CompressedTexture2D/CompressedTexture2D::5062557789315944961::1750703964::1750704039::1::::<><><>0<>0<>7a6d489765cd1d4387c34d3e20e3bd75<>res://.godot/imported/Door.png-69503ba9367bcfa2ab8de46ca34fdb85.ctex::
+Hero_006_Idle.png::CompressedTexture2D/CompressedTexture2D::6640176234003504166::1750703964::1750704039::1::::<><><>0<>0<>04ce1d5da88980800c9ca6660621bb50<>res://.godot/imported/Hero_006_Idle.png-3b6b4a61be456eca0051386b4092bd3a.ctex::
+icon.svg::CompressedTexture2D/CompressedTexture2D::5197130841519749492::1750703964::1750704039::1::::<><><>0<>0<>fd1c1312c6be102346df262d79ba304e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Nivel0.tscn::PackedScene::1009234738021590987::1750704122::0::1::::<><><>0<>0<><>::uid://dn41q7ln0xxes::::res://personaje.tscn<>uid://b8ew6paw14blw::::res://plataforma.tscn<>uid://ceelt7y81dg14::::res://Door.png
+personaje.gd::GDScript/GDScript::7731866055559671754::1750703964::0::1::::<>CharacterBody2D<><>0<>0<><>::
+personaje.tscn::PackedScene/PackedScene::8133192886120916894::1750703964::0::1::::<><><>0<>0<><>::uid://difmx7fvftbhq::::res://personaje.gd<>uid://c1usy5xrphtny::::res://Hero_006_Idle.png
+plataforma.gd::GDScript/GDScript::3828544629580834217::1750703964::0::1::::<>Area2D<><>0<>0<><>::
+plataforma.tscn::PackedScene/PackedScene::4712301957102040408::1750703964::0::1::::<><><>0<>0<><>::uid://busttnyqbcmgn::::res://plataforma.gd<>uid://dgf5lmpqm8s30::::res://Platform.png
+Platform.png::CompressedTexture2D/CompressedTexture2D::7592558809390333729::1750703964::1750704039::1::::<><><>0<>0<>c1d38d209ba3ab85c4f2a04014cf2e8b<>res://.godot/imported/Platform.png-542605f8d0c23af6a571efe7214c2e6a.ctex::
