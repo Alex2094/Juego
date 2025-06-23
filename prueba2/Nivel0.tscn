@@ -38,7 +38,7 @@ position = Vector2(280, 176)
 tipo = 1
 
 [node name="Plataforma2" parent="." instance=ExtResource("2_wyp7x")]
-position = Vector2(400, 128)
+position = Vector2(449, 124)
 tipo = 2
 
 [node name="Plataforma3" parent="." instance=ExtResource("2_wyp7x")]
