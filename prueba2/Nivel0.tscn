@@ -19,7 +19,7 @@ position = Vector2(575.5, 484)
 shape = SubResource("RectangleShape2D_ip57o")
 
 [node name="door" type="Area2D" parent="."]
-position = Vector2(638, -54)
+position = Vector2(264, 51)
 
 [node name="Sprite2D" type="Sprite2D" parent="door"]
 position = Vector2(38.5, 21)
@@ -47,6 +47,14 @@ tipo = 3
 
 [node name="Plataforma4" parent="." instance=ExtResource("2_wyp7x")]
 position = Vector2(160, 136)
+
+[node name="Label" type="Label" parent="."]
+offset_left = 592.0
+offset_top = 63.0
+offset_right = 700.0
+offset_bottom = 107.0
+text = "hola
+"
 
 [connection signal="body_entered" from="reset_area" to="Personaje" method="_on_reset_area_body_entered"]
 [connection signal="body_entered" from="door" to="Personaje" method="_on_door_body_entered"]
